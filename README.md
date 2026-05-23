@@ -1,85 +1,104 @@
 <div align="center">
-  <h1>Hi 👋, I'm Yash Mahajan</h1>
-  <h3>AI Engineer | Computer Vision | Deep Learning Enthusiast</h3>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yash+Mahajan;AI+Engineer+%7C+Computer+Vision+Developer;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+
+  <h3>Turning complex problems into intelligent AI systems ✨</h3>
+
+  <!-- GitHub Contribution Snake Animation -->
+  <img src="https://github.com/YashM2704/YashM2704/blob/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **AI & Computer Vision Projects**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning & System Design**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 🤝 I’m looking for help with **Scalable AI Applications**
-- 💬 Ask me about **Python, AI, OpenCV, YOLOv8 & GitHub**
-- ⚡ Fun fact: **I love building real-world AI projects that solve practical problems**
+- 🔭 **Currently working on**: Advanced Computer Vision & Production AI Systems
+- 🌱 **Currently learning**: MLOps, Distributed Systems & LLM Fine-tuning
+- 👯 **Looking to collaborate**: Open Source AI & Computer Vision Projects
+- 🤝 **Seeking help with**: Scalable AI Deployment & System Design
+- 💬 **Ask me about**: Python, YOLOv8, OpenCV, PyTorch, FastAPI
+- ⚡ **Fun Fact**: I turn coffee into working AI models
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmahajan2705/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Yash-Mahajan-208)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Rex_6591/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ypmahajan.27@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashmahajan2705/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.quora.com/profile/Yash-Mahajan-208">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"/>
+  </a>
+  <a href="https://www.reddit.com/user/Rex_6591/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="mailto:ypmahajan.27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI/ML & Computer Vision:**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=ultralytics&logoColor=black)
-
-**Backend & Cloud:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=YashM2704&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=YashM2704&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+</p>
 
-![](https://streak-stats.demolab.com/?user=YashM2704&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YashM2704&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YashM2704&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashM2704&theme=dracula&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repositories
+### 🐍 My Contribution Snake (Live Animation)
 
-![](https://github-contributor-stats.vercel.app/api?username=YashM2704&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github.com/YashM2704/YashM2704/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=00FF9F&style=for-the-badge&logo=eye)
+
+---
+
+### 📈 Live Activity
+
+<!-- You can add more dynamic badges here later -->
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Made with AI"/>
 </div>
-
----
-
-**✨ Proudly created with ❤️ and lots of ☕**
