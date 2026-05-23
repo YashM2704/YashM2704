@@ -1,12 +1,9 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yash+Mahajan;AI+Engineer+%7C+Computer+Vision+Developer;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=29&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=720&lines=Hi+👋,+I'm+Yash+Mahajan;AI+Engineer+%7C+Computer+Vision+Developer;Building+Real-World+Intelligent+Solutions" alt="Typing SVG" />
 
   <h3>Turning complex problems into intelligent AI systems ✨</h3>
-
-  <!-- GitHub Contribution Snake Animation -->
-  <img src="https://github.com/YashM2704/YashM2704/blob/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
 </div>
 
@@ -14,12 +11,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on**: Advanced Computer Vision & Production AI Systems
-- 🌱 **Currently learning**: MLOps, Distributed Systems & LLM Fine-tuning
-- 👯 **Looking to collaborate**: Open Source AI & Computer Vision Projects
-- 🤝 **Seeking help with**: Scalable AI Deployment & System Design
-- 💬 **Ask me about**: Python, YOLOv8, OpenCV, PyTorch, FastAPI
-- ⚡ **Fun Fact**: I turn coffee into working AI models
+- 🔭 **Currently working on**: Advanced Computer Vision & Production-grade AI Systems
+- 🌱 **Currently learning**: MLOps, Distributed Training & LLM Fine-tuning
+- 👯 **Looking to collaborate**: Open Source AI / Computer Vision Projects
+- 🤝 **Need help with**: Scalable AI Deployment & System Design
+- 💬 **Ask me about**: Python, YOLOv8, OpenCV, PyTorch, FastAPI, Docker
+- ⚡ **Fun Fact**: I convert ☕ into working AI models
 
 ---
 
@@ -81,24 +78,24 @@
 
 ---
 
-### 🐍 My Contribution Snake (Live Animation)
+### 🐍 Contribution Snake Animation (Live)
 
-<img src="https://github.com/YashM2704/YashM2704/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=00FF9F&style=for-the-badge&logo=eye)
-
----
-
-### 📈 Live Activity
-
-<!-- You can add more dynamic badges here later -->
+![Profile Views](https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=00FF9F&style=for-the-badge)
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Made with AI"/>
+  <i>Made with ❤️, ☕ and AI Magic</i>
 </div>
