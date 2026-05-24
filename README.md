@@ -93,9 +93,3 @@
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=00FF9F&style=for-the-badge)
-
----
-
-<div align="center">
-  <i>Made with ❤️, ☕ and AI Magic</i>
-</div>
