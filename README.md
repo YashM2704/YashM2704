@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=29&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=720&lines=Hi+👋,+I'm+Yash+Mahajan;AI+Engineer+%7C+Computer+Vision+Developer;Building+Real-World+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=29&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=720&lines=Hi+,+I'm+Yash+Mahajan;AI+Engineer+%7C+Computer+Vision+Developer;Building+Real-World+Intelligent+Solutions" alt="Typing SVG" />
 
-  <h3>Turning complex problems into intelligent AI systems ✨</h3>
+  <h3>Turning complex problems into intelligent AI systems</h3>
 
 </div>
 
@@ -11,12 +11,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on**: Advanced Computer Vision & Production-grade AI Systems
-- 🌱 **Currently learning**: MLOps, Distributed Training & LLM Fine-tuning
-- 👯 **Looking to collaborate**: Open Source AI / Computer Vision Projects
-- 🤝 **Need help with**: Scalable AI Deployment & System Design
-- 💬 **Ask me about**: Python, YOLOv8, OpenCV, PyTorch, FastAPI, Docker
-- ⚡ **Fun Fact**: I convert ☕ into working AI models
+- **Currently working on**: Advanced Computer Vision & Production-grade AI Systems
+- **Currently learning**: MLOps, Distributed Training & LLM Fine-tuning
+- **Looking to collaborate**: Open Source AI / Computer Vision Projects
+- **Need help with**: Scalable AI Deployment & System Design
+- **Ask me about**: Python, YOLOv8, OpenCV, PyTorch, FastAPI, Docker
+- **Fun Fact**: I convert ☕ into working AI models
 
 ---
 
