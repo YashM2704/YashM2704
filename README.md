@@ -68,10 +68,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
 </p>
 
----
-
----
-
 ### 🐍 Contribution Snake Animation (Live)
 
 <div align="center">
