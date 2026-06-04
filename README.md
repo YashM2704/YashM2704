@@ -70,12 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashM2704&theme=dracula&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### 🐍 Contribution Snake Animation (Live)
