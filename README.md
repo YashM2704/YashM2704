@@ -68,16 +68,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashM2704&theme=dracula&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake Animation (Live)
 
 <div align="center">
