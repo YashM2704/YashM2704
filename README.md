@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - **Currently working on**: Advanced Computer Vision & Production-grade AI Systems
 - **Currently learning**: MLOps, Distributed Training & LLM Fine-tuning
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashmahajan2705/">
@@ -39,7 +39,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 Live GitHub Statistics
+###  Live GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=YashM2704&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
 </p>
 
-### 🐍 Contribution Snake Animation (Live)
+###  Contribution Snake Animation (Live)
 
 <div align="center">
   <picture>
