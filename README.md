@@ -68,18 +68,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashM2704&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
 </p>
 
-###  Contribution Snake Animation (Live)
+###  Contribution Space Invaders (Live)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YashM2704/YashM2704/output/github-snake-dark.svg" width="100%"/>
-  </picture>
+  <img alt="GitHub Space Invaders Animation" src="https://raw.githubusercontent.com/YashM2704/YashM2704/output/game.gif" width="100%"/>
 </div>
-
----
-
-### Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YashM2704&label=Profile%20Views&color=00FF9F&style=for-the-badge)
